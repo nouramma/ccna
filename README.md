@@ -6,11 +6,7 @@
 
 This project involves building and implementing a network infrastructure for an international school with two branches located 20 miles apart. The network supports staff and students across four buildings (A, B, C, and D) at the main branch, as well as the primary and KG sections at the smaller branch. The network design ensures effective communication, security, and management through VLAN segmentation, dynamic IP assignment, inter-VLAN routing, and other critical network services.
 
-## Team Members
-- **Amera Sameh** - Network Design
-- **Saif Mohamed** - Network Implementation
-- **Ahmed Yasser** - Network Services Setup
-- **Nour Ammar** - Network Management
+
 
 ## Network Design and Components
 
@@ -38,21 +34,21 @@ This project involves building and implementing a network infrastructure for an 
 
 ## Project Phases
 
-### 1. Network Design (Amera)
+### 1. Network Design 
 - Designed the overall topology, IP addressing, and VLAN segmentation.
 - Ensured each building is properly connected to the core switch using fiber optics.
 
-### 2. Network Implementation (Saif)
+### 2. Network Implementation 
 - Installed and interconnected routers, core switch, and distribution switches.
 - Connected end devices (PCs, printers, servers) and set up fiber connections.
 - Configured inter-VLAN routing and switch port assignments.
 
-### 3. Network Services Setup (Ahmed)
+### 3. Network Services Setup 
 - Configured DHCP for dynamic IP assignment and DNS for hostname resolution.
 - Set up the wireless network with WPA2/3 encryption and VLAN segmentation.
 - Configured firewalls and ACLs to restrict inter-VLAN traffic for sensitive areas.
 
-### 4. Network Management (Nour)
+### 4. Network Management 
 - Set up network monitoring tools (SNMP/NetFlow) and created automated alerts.
 - Handled troubleshooting and documented network configurations.
 - Created detailed network diagrams and a troubleshooting guide for future issues.
